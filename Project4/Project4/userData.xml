@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user>
+    <id>1</id>
+    <name>
+      <first>Mary</first>
+      <last>Jacobs</last>
+    </name>
+    <address>
+      <city>Redmond</city>
+      <state>WA</state>
+      <zipCode>23020</zipCode>
+    </address>
+    <email>maryjacobs@mailinator.com</email>
+    <phone>120-121-2022</phone>
+  </user>
+  <user>
+    <id>2</id>
+    <name>
+      <first>Thomas</first>
+      <last>Door</last>
+    </name>
+    <address>
+      <city>Appleton</city>
+      <state>WI</state>
+      <zipCode>12345-1223</zipCode>
+    </address>
+    <email>thomasdoor@test.com</email>
+    <phone>920-111-8833</phone>
+  </user>
+  <user>
+    <id>3</id>
+    <name>
+      <first>Sam</first>
+      <last>Jones</last>
+    </name>
+    <address>
+      <city>Madison</city>
+      <state>WI</state>
+      <zipCode>53704</zipCode>
+    </address>
+    <email>samjones@test.com</email>
+    <phone>222-333-4444</phone>
+  </user>
+</users>
